@@ -1,8 +1,6 @@
 /** 
  *The PercolationStats class defines a stats for perolation. 
  *Its purpose is to calculate the stats for perolation process 
- *@author Yuyang Sun 
- *@email syuyangok@gmail.com
  *@verison Week1 
  */ 
 
