@@ -1,8 +1,6 @@
 /** 
  *The Percolation class defines a perolation object. 
  *Its purpose is to stimulate the perolation process 
- *@author Yuyang Sun 
- *@email syuyangok@gmail.com
  *@verison Week1 
  */ 
 
