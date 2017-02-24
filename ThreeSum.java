@@ -1,8 +1,6 @@
 
 /** 
  *Brute Force ThreeSum. 
- *@author Yuyang Sun 
- *@email syuyangok@gmail.com
  */ 
 import java.util.*;
 
