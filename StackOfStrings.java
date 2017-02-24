@@ -1,6 +1,5 @@
 /** 
- *@author Yuyang Sun 
- *@email syuyangok@gmail.com
+
  */ 
 public class StackOfStrings
 {
