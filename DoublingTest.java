@@ -4,9 +4,6 @@
  *  <p>
  *  For additional documentation, see <a href="http://algs4.cs.princeton.edu/14analysis">Section 1.4</a>
  *  of <i>Algorithms, 4th Edition</i> by Robert Sedgewick and Kevin Wayne.
- *
- *@author Yuyang Sun 
- *@email syuyangok@gmail.com
  */
 public class DoublingTest {
     private static final int MAXIMUM_INTEGER = 10000;
